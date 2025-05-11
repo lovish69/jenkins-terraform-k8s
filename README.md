@@ -30,7 +30,7 @@ This project demonstrates an end-to-end CI/CD pipeline using AWS services. Jenki
 ## Setup Instruction
 ### 1. Clone the Repository
 ```bash
-https://github.com/lovish69/jenkins-terraform-k8s/tree/main
+[Clone Repository](https://github.com/lovish69/jenkins-terraform-k8s/tree/main)
 cd <yourdirectory>
 ```
 ![github](https://github.com/user-attachments/assets/2f18940f-2755-44e8-b9d0-0993480be163)
@@ -53,7 +53,7 @@ terraform apply --auto-approve
 
 ![s3bucket](https://github.com/user-attachments/assets/3a1c4bc8-828d-49c3-888b-e0b183d1011e)
 
-📍We have installed jenkins, terraform and kubectl in EC2 instance using user data script so know we can access it.
+📍We have installed jenkins, terraform and kubectl in EC2 instance using user data script so now we can access it.
 
 ### 4. Access Jenkins
 - Go to http://<EC2_PUBLIC_IP>:8080
