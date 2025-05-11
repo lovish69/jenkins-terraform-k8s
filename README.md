@@ -25,7 +25,8 @@ This project demonstrates an end-to-end CI/CD pipeline using AWS services. Jenki
 - Terraform installed
 - jenkins plugins:
 
-![AwsConfigure](https://github.com/user-attachments/assets/3fd40042-e247-448e-9dff-e28b679e35f2)
+![AwsConfigure](https://github.com/user-attachments/assets/188430e2-922c-4e61-92fd-63e42f1ff9c3)
+
 
 ## Setup Instruction
 ### 1. Clone the Repository
@@ -86,7 +87,8 @@ terraform apply --auto-approve
 
 # Troubleshooting
 1. While integrating the EKS pipeline and some server credentials error is coming attach this policy to your cluster.
-![EKSpolicies](https://github.com/user-attachments/assets/9bee8c69-b0e8-46d2-aaaf-c3c222fec92d)
+![EKSpolicies](https://github.com/user-attachments/assets/631340c2-93f6-433a-8c4e-01c001b08522)
+
 
 2. If jenkins not able to start change the version of java
 
