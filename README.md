@@ -29,8 +29,8 @@ This project demonstrates an end-to-end CI/CD pipeline using AWS services. Jenki
 
 ## Setup Instruction
 ### 1. Clone the Repository
-```bash
 [Clone Repository](https://github.com/lovish69/jenkins-terraform-k8s/tree/main)
+```bash
 cd <yourdirectory>
 ```
 ![github](https://github.com/user-attachments/assets/2f18940f-2755-44e8-b9d0-0993480be163)
